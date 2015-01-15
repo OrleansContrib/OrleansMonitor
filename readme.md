@@ -1,5 +1,7 @@
 # Orleans Monitor
 
+[![Build Status](https://travis-ci.org/OrleansContrib/OrleansMonitor.svg)](https://travis-ci.org/OrleansContrib/OrleansMonitor)
+
 Use this library to monitor the Silos in your Orleans Deployment.
 
 ## Installation
