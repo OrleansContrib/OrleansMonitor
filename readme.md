@@ -1,6 +1,6 @@
 # Orleans Monitor
 
-[![Build Status](https://travis-ci.org/OrleansContrib/OrleansMonitor.svg)](https://travis-ci.org/OrleansContrib/OrleansMonitor)
+[![Build Status](https://travis-ci.org/OrleansContrib/OrleansMonitor.svg)](https://travis-ci.org/OrleansContrib/OrleansMonitor) [![Build status](https://ci.appveyor.com/api/projects/status/1r5xlt04ko0bxhkk?svg=true)](https://ci.appveyor.com/project/richorama/orleansmonitor)
 
 Use this library to monitor the Silos in your Orleans Deployment.
 
